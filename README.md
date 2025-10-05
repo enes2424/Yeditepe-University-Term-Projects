@@ -7,9 +7,9 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Project Name												|
-| :-:                                                      	|
-| [Python To C Term Project][python_to_c_tree]             	|
+| Project Name                                 |
+| :-:                                          |
+| [Python To C Term Project][python_to_c_tree] |
 
 </td></tr>
 
