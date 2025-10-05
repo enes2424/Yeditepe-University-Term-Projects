@@ -1,18 +1,11 @@
-<table width="100%" align="center">
-<tr style="display:flex; justify-content:space-around; paddind:0;">
-<td colspan="2" style="padding:0; margin:0; text-align:center;">
-	<p align="center">YEDITEPE UNIVERSITY TERM PROJECTS</p>
-</td></tr>
+<h3 align="center">YEDITEPE UNIVERSITY TERM PROJECTS</h3>
 
-<tr style="display:flex; justify-content:space-around; paddind:0;">
-<td style="padding:0; margin:0;">
-
-| Project Name                                 |
-| :-:                                          |
-| [Python To C Term Project][python_to_c_tree] |
-
-</td></tr>
-
-[python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Project/tree/PythonToCTermProject
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/enes2424/Yeditepe-University-Term-Project/tree/PythonToCTermProject">
+        Python To C Term Project
+      </a>
+    </td>
+  </tr>
 </table>
