@@ -17,6 +17,6 @@
 
 </td></tr>
 
-[python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Project/tree/PythonToCTermProject
+[python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/PythonToCTermProject
 
 </table>
