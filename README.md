@@ -166,7 +166,7 @@ services:
 7. **Docker Containerization**: Isolated test environment
 8. **Wildcard Filtering**: Flexible file/folder exclusion system
 
-## � Performans ve Sınırlamalar
+## 📊 Performans ve Sınırlamalar
 
 ### Optimizasyonlar
 - **ReentrantLock**: Thread-safe operations
