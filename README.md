@@ -9,11 +9,12 @@
 
 <div align="center">
 
-| Project Name |
-| :-: |
-| [Python To C Term Project][python_to_c_tree] |
-| [Space Invaders Term Project][space_invaders_tree] |
-| [Network Term Project][network_tree] |
+| Project Name                                          |
+| :-:                                                   |
+| [Python To C Term Project][python_to_c_tree]          |
+| [Space Invaders Term Project][space_invaders_tree]    |
+| [Network Term Project][network_tree]                  |
+| [AI Project][ai_tree]                                 |
 
 </div>
 
@@ -22,5 +23,6 @@
 [python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/PythonToCTermProject
 [space_invaders_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/SpaceInvadersTermProject
 [network_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/NetworkTermProject
+[ai_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/AITermProject
 
 </table>
