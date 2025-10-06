@@ -195,7 +195,7 @@ make clean
 **Ders:** CSE212 - Nesne Yönelimli Programlama  
 **Üniversite:** Yeditepe Üniversitesi Bilgisayar Mühendisliği
 
-## � Notlar
+## 📝 Notlar
 
 - Tüm sınıflar nesne yönelimli programlama prensipleri ile tasarlanmıştır
 - Oyun Swing'in custom painting özelliği kullanılarak geliştirilmiştir  
