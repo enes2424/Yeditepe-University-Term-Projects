@@ -15,6 +15,7 @@
 | [Python To C Term Project][python_to_c_tree]          |
 | [Tetris Term Project][tetris_tree]                    |
 | [Space Invaders Term Project][space_invaders_tree]    |
+| [Logistic App Term Project][logistic_app_tree]        |
 | [Network Term Project][network_tree]                  |
 | [AI Term Project][ai_tree]                            |
 
@@ -26,6 +27,7 @@
 [python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/PythonToCTermProject
 [tetris_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/TetrisTermProject
 [space_invaders_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/SpaceInvadersTermProject
+[logistic_app_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/LogisticAppTermProject
 [network_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/NetworkTermProject
 [ai_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/AITermProject
 
