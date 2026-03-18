@@ -11,16 +11,18 @@
 
 | Project Name                                          |
 | :-:                                                   |
+| [Uno Term Project][uno_tree]                          |
 | [Python To C Term Project][python_to_c_tree]          |
-| [Tetris Term Project][tetris_tree]          |
+| [Tetris Term Project][tetris_tree]                    |
 | [Space Invaders Term Project][space_invaders_tree]    |
 | [Network Term Project][network_tree]                  |
-| [AI Project][ai_tree]                                 |
+| [AI Term Project][ai_tree]                                 |
 
 </div>
 
 </td></tr>
 
+[uno_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/UnoTermProject
 [python_to_c_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/PythonToCTermProject
 [tetris_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/TetrisTermProject
 [space_invaders_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/SpaceInvadersTermProject
