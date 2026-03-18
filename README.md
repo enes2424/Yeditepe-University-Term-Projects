@@ -16,7 +16,7 @@
 | [Tetris Term Project][tetris_tree]                    |
 | [Space Invaders Term Project][space_invaders_tree]    |
 | [Network Term Project][network_tree]                  |
-| [AI Term Project][ai_tree]                                 |
+| [AI Term Project][ai_tree]                            |
 
 </div>
 
