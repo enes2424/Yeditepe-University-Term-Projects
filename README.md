@@ -18,7 +18,9 @@
 | [Database OBS Term Project][database_obs_tree]        |
 | [Logistic App Term Project][logistic_app_tree]        |
 | [Network Term Project][network_tree]                  |
+| [Network Term Project 2][network2_tree]               |
 | [AI Term Project][ai_tree]                            |
+| [AI Term Project 2][ai2_tree]                         |
 
 </div>
 
@@ -31,6 +33,8 @@
 [database_obs_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/DatabaseObsTermProject
 [logistic_app_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/LogisticAppTermProject
 [network_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/NetworkTermProject
+[network2_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/NetworkTermProject2
 [ai_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/AITermProject
+[ai2_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/AITermProject2
 
 </table>
