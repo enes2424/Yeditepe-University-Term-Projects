@@ -1,0 +1,58 @@
+services:
+  peer1:
+    container_name: peer1
+    image: p2p
+    environment:
+      - PULSE_SERVER=unix:/mnt/wslg/PulseServer
+      - DISPLAY=${DISPLAY}
+      - VLC_VERBOSE=0
+      - PULSE_LATENCY_MSEC=200
+      - SDL_AUDIODRIVER=pulseaudio
+    volumes:
+      - /mnt/wslg:/mnt/wslg
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - ${XDG_RUNTIME_DIR}/pulse:${XDG_RUNTIME_DIR}/pulse
+      - ./videos:/videos
+    shm_size: '2gb'
+    networks:
+      - cse471
+
+  peer2:
+    container_name: peer2
+    image: p2p
+    environment:
+      - PULSE_SERVER=unix:/mnt/wslg/PulseServer
+      - DISPLAY=${DISPLAY}
+      - VLC_VERBOSE=0
+      - PULSE_LATENCY_MSEC=200
+      - SDL_AUDIODRIVER=pulseaudio
+    volumes:
+      - /mnt/wslg:/mnt/wslg
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - ${XDG_RUNTIME_DIR}/pulse:${XDG_RUNTIME_DIR}/pulse
+      - ./videos:/videos
+    shm_size: '2gb'
+    networks:
+      - cse471
+
+  peer3:
+    container_name: peer3
+    image: p2p
+    environment:
+      - PULSE_SERVER=unix:/mnt/wslg/PulseServer
+      - DISPLAY=${DISPLAY}
+      - VLC_VERBOSE=0
+      - PULSE_LATENCY_MSEC=200
+      - SDL_AUDIODRIVER=pulseaudio
+    volumes:
+      - /mnt/wslg:/mnt/wslg
+      - /tmp/.X11-unix:/tmp/.X11-unix
+      - ${XDG_RUNTIME_DIR}/pulse:${XDG_RUNTIME_DIR}/pulse
+      - ./videos:/videos
+    shm_size: '2gb'
+    networks:
+      - cse471
+
+networks:
+  cse471:
+    name: cse471
