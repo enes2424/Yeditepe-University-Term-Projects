@@ -9,18 +9,18 @@
 
 <div align="center">
 
-| Project Name                                          |
-| :-:                                                   |
-| [Uno Term Project][uno_tree]                          |
-| [Tetris Term Project][tetris_tree]                    |
-| [Python To C Term Project][python_to_c_tree]          |
-| [Space Invaders Term Project][space_invaders_tree]    |
-| [Database OBS Term Project][database_obs_tree]        |
-| [Logistic App Term Project][logistic_app_tree]        |
-| [Network Term Project][network_tree]                  |
-| [Network Term Project 2][network2_tree]               |
-| [AI Term Project][ai_tree]                            |
-| [AI Term Project 2][ai2_tree]                         |
+|                    Project Name                    |
+| :------------------------------------------------: |
+|            [Uno Term Project][uno_tree]            |
+|         [Tetris Term Project][tetris_tree]         |
+|    [Python To C Term Project][python_to_c_tree]    |
+| [Space Invaders Term Project][space_invaders_tree] |
+|   [Database OBS Term Project][database_obs_tree]   |
+|   [Logistic App Term Project][logistic_app_tree]   |
+|        [Network Term Project][network_tree]        |
+|      [Network Term Project 2][network2_tree]       |
+|             [AI Term Project][ai_tree]             |
+|           [AI Term Project 2][ai2_tree]            |
 
 </div>
 
