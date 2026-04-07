@@ -24,7 +24,6 @@
 
 </div>
 
-
 </td></tr>
 
 [uno_tree]: https://github.com/enes2424/Yeditepe-University-Term-Projects/tree/UnoTermProject
